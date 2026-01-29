@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 - 📑 Backend developer
 - 🎓 Higher School of Economics Student
-- 📧 artem321segun@gmail.com 
+- 📧 artem321segun@gmail.com
+
+
+<div align="center">
+  <a href="https://t.me/temochka230">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
+</div>
 
 
 ### Projects:
@@ -43,7 +49,4 @@ Here are some ideas to get you started:
   Роль:
   
 
-<div align="center">
-  <a href="https://t.me/temochka230">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-</div>
+
