@@ -33,25 +33,25 @@ Here are some ideas to get you started:
 
 **🌐 Distributed Website Monitoring System**
 Production-like сервис мониторинга веб-сайтов с нуля.
-Clean architecture, Kafka (event-driven алерты DOWN/Slow connection),
-Redis, JWT + bcrypt, Telegram-бот, React-фронтенд, Docker Compose.
-🔗 [Artem-229/Distributed_Website_monitoring_system](https://github.com/Artem-229/Distributed_Website_monitoring_system)
+Clean architecture, Kafka (event-driven алерты DOWN/Slow connection), 
+Redis, JWT + bcrypt, Telegram-бот, React-фронтенд, Docker Compose.  
+🔗 [Artem-229/Distributed_Website_monitoring_system](https://github.com/Artem-229/Distributed_Website_monitoring_system)  
 **Роль:** Fullstack (Go backend + React frontend)
 
 
 
 **🤖 AI Copilot для малого бизнеса**
 Хакатон Альфа-будущее, 48 часов. REST API на Go (Gin),
-интеграция LLM через Ollama API, аутентификация с PostgreSQL.
-🔗 [Blackqrum/Copilot_Alfa](https://github.com/Blackqrum/Copilot_Alfa)
+интеграция LLM через Ollama API, аутентификация с PostgreSQL.  
+🔗 [Blackqrum/Copilot_Alfa](https://github.com/Blackqrum/Copilot_Alfa)  
 **Роль:** Backend разработчик
 
 
 
 **📊 AI-решение для прогноза доходов**
 Хакатон Hack&Change, 48 часов. REST API с ML-интеграцией,
-валидация финансовых данных, контейнеризация всего стека.
-🔗 [Artem-229/Hackaton-Alfa](https://github.com/Artem-229/Hackaton-Alfa)
+валидация финансовых данных, контейнеризация всего стека.  
+🔗 [Artem-229/Hackaton-Alfa](https://github.com/Artem-229/Hackaton-Alfa)  
 **Роль:** Backend разработчик
   
 
