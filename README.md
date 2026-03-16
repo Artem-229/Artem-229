@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### About me: 
 
-- 📑 Backend developer
-- 🎓 Higher School of Economics Student
+- 📑 Golang Backend developer
+- 🎓  НИУ ВШЭ, Компьютерные науки
 - 📧 artem321segun@gmail.com
 
 
@@ -31,28 +31,28 @@ Here are some ideas to get you started:
 
 ### Projects:
 
+**🌐 Distributed Website Monitoring System**
+Production-like сервис мониторинга веб-сайтов с нуля.
+Clean architecture, Kafka (event-driven алерты DOWN/Slow connection),
+Redis, JWT + bcrypt, Telegram-бот, React-фронтенд, Docker Compose.
+🔗 [Artem-229/Distributed_Website_monitoring_system](https://github.com/Artem-229/Distributed_Website_monitoring_system)
+**Роль:** Fullstack (Go backend + React frontend)
 
 
-**🤖 AI Copilot для малого бизнеса**  
-Совместный проект с Blackqrum в рамках хакатона "Альфа-будущее". Было разработано Copilot-приложение для автоматизации задач малого бизнеса с использованием LLM.  
-🔗 **Репозиторий:** [Blackqrum/Copilot_Alfa](https://github.com/Blackqrum/Copilot_Alfa)  
-**Роль:** Backend, frontend разработчик
 
-
-
-
-**📊 AI-решение для прогноза доходов**  
-Командный проект в рамках хакатона Hack&Change. Было разработано AI-решение для прогноза доходов клиентов и формирования персональных рекомендаций по финансовым продуктам.  
-🔗 **Репозиторий:** [Artem-229/Hackaton-Alfa](https://github.com/Artem-229/Hackaton-Alfa)  
+**🤖 AI Copilot для малого бизнеса**
+Хакатон Альфа-будущее, 48 часов. REST API на Go (Gin),
+интеграция LLM через Ollama API, аутентификация с PostgreSQL.
+🔗 [Blackqrum/Copilot_Alfa](https://github.com/Blackqrum/Copilot_Alfa)
 **Роль:** Backend разработчик
 
 
 
-
-**🚀 AI Copilot (standalone версия)**  
-Личный проект на основе решения хакатона "Альфа-будущее" с переработанной архитектурой и кодом.  
-🔗 **Репозиторий:** [Artem-229/ai-copilot](https://github.com/Artem-229/Alfa-App-go) *(в разработке)*  
-**Роль:** Fullstack разработчик...
+**📊 AI-решение для прогноза доходов**
+Хакатон Hack&Change, 48 часов. REST API с ML-интеграцией,
+валидация финансовых данных, контейнеризация всего стека.
+🔗 [Artem-229/Hackaton-Alfa](https://github.com/Artem-229/Hackaton-Alfa)
+**Роль:** Backend разработчик
   
 
 
