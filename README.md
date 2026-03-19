@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 **🌐 Distributed Website Monitoring System**
 Production-like сервис мониторинга веб-сайтов с нуля.
-Clean architecture, Kafka (event-driven алерты DOWN/Slow connection), 
-Redis, JWT + bcrypt, Telegram-бот, React-фронтенд, Docker Compose.  
+Clean architecture, Kafka (event-driven алерты DOWN/Slow connection), JWT + bcrypt, Telegram-бот, React-фронтенд, Docker Compose.  
 🔗 [Artem-229/Distributed_Website_monitoring_system](https://github.com/Artem-229/Distributed_Website_monitoring_system)  
 **Роль:** Fullstack (Go backend + React frontend)
 
