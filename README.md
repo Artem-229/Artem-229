@@ -40,7 +40,7 @@ Clean architecture, Kafka (event-driven алерты DOWN/Slow connection), JWT 
 
 
 **🤖 AI Copilot для малого бизнеса**
-Хакатон Альфа-будущее, 48 часов. REST API на Go (Gin),
+Хакатон Альфа-будущее, 7 дней. REST API на Go (Gin),
 интеграция LLM через Ollama API, аутентификация с PostgreSQL.  
 🔗 [Blackqrum/Copilot_Alfa](https://github.com/Blackqrum/Copilot_Alfa)  
 **Роль:** Backend разработчик
@@ -48,7 +48,7 @@ Clean architecture, Kafka (event-driven алерты DOWN/Slow connection), JWT 
 
 
 **📊 AI-решение для прогноза доходов**
-Хакатон Hack&Change, 48 часов. REST API с ML-интеграцией,
+Хакатон Hack&Change, 72 часа. REST API с ML-интеграцией,
 валидация финансовых данных, контейнеризация всего стека.  
 🔗 [Artem-229/Hackaton-Alfa](https://github.com/Artem-229/Hackaton-Alfa)  
 **Роль:** Backend разработчик
